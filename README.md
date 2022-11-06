@@ -1,3 +1,3 @@
-# Addon Name
+# Event Alert
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for EventAlert. Modified for Ascension.gg. 
